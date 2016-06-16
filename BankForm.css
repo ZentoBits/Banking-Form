@@ -4,4 +4,255 @@ body {
 	right: 0;
 	bottom: 0;
 	left: 0;
+	background: grey;
 }
+
+header {
+	background: white;
+}
+
+h1 {
+	display: inline;
+	margin-left: 80px;
+}
+
+h1, h3 {
+	font-family: helvetica;
+}
+
+#nomarg {
+	margin: 0;
+}
+
+form {
+	font-family: Arial;
+}
+
+/****************
+LINE 1
+****************/
+
+.line-1 {
+	background: lightgrey;
+	height: 80px;
+	width: 100%;
+	margin: 3px 3px 3px 3px;
+}
+
+.name {
+	display: inline-block;
+	margin-left: 80px;
+	padding-top: 10px;
+}
+
+.name input {
+	height: 20px;
+	width: 190px;
+}
+
+
+/****************
+LINE 2
+****************/
+
+.line-2 {
+	background: lightgrey;
+	height: 80px;
+	width: 100%;
+	margin: 3px 3px 3px 3px;
+}
+
+.address {
+	display: inline-block;
+	margin-left: 80px;
+	padding-top: 10px;
+}
+
+#address input{
+	width: 450px;
+	height: 20px;
+}
+
+#zip {
+	margin-left: 100px;
+}
+
+#zip input {
+	height: 20px;
+	width: 190px;
+}
+
+
+/****************
+LINE 3
+****************/
+
+.line-3 {
+	background: lightgrey;
+	height: 80px;
+	width: 100%;
+	margin: 3px 3px 3px 3px;
+}
+
+.job {
+	display: inline-block;
+	padding-top: 10px;
+}
+
+#occ input{
+	height: 20px;
+	width: 190px;
+}
+
+#emp input {
+	height: 20px;
+	width: 450px;
+}
+
+#emp {
+	margin-left: 100px;
+}
+
+#occ {
+	margin-left: 80px;
+}
+
+/****************
+BOX 1
+****************/
+
+.box-1 {
+	background: lightgrey;
+	height: 200px;
+	width: 49.5%;
+	margin: 3px 3px 3px 3px;
+	float: left;
+}
+
+h3 {
+	text-align: center;
+	margin: 15px 0;
+}
+
+.loanType {
+	margin-left: 240px;
+}
+
+.loanType input {
+	margin-top: 15px;
+}
+
+
+/****************
+BOX 2
+****************/
+
+.box-2 {
+	background: lightgrey;
+	height: 200px;
+	width: 49.5%;
+	margin: 3px 3px 3px 3px;
+	float: right;
+}
+
+/****************
+BOX 3
+****************/
+
+
+.box-3 {
+	background: lightgrey;
+	height: 200px;
+	width: 49.5%;
+	margin: 3px 3px 3px 3px;
+	float: left;
+}
+
+.amount {
+	margin-left: 80px;
+	padding-top: 50px;
+}
+
+.amount input {
+	height: 60px;
+	width: 84%;
+}
+
+
+/****************
+BOX 4
+****************/
+
+.box-4 {
+	background: lightgrey;
+	height: 200px;
+	width: 49.5%;
+	margin: 3px 3px 3px 3px;
+	float: right;
+}
+
+.checkbox {
+	margin-left: 210px;
+}
+
+.checkbox input {
+	margin-top: 15px;
+}
+
+
+/****************
+LINE 4
+****************/
+
+.line-4 {
+	background: lightgrey;
+	height: 120px;
+	width: 100%;
+	margin: 3px 3px 3px 3px;
+	clear: both;
+}
+
+.comm {
+	margin-left: 80px;
+	padding-top: 10px;
+}
+
+.comm input {
+	height: 60px;
+	width: 500px;
+}
+
+
+/****************
+LINE 5
+****************/
+
+.line-5 {
+	background: lightgrey;
+	height: 80px;
+	width: 100%;
+	margin: 3px 3px 3px 3px;
+}
+
+
+/****************
+LINE 6
+****************/
+
+.line-6 {
+	background: lightgrey;
+	height: 80px;
+	width: 100%;
+	margin: 3px 3px 3px 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
